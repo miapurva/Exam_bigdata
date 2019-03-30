@@ -3,8 +3,13 @@ import matplotlib.pyplot as plt
 import pandas as pd  
 import numpy as np 
 
-customer_data = pd.read_csv("/home/apurva/Desktop/Exam/train.csv")
-customer_data.shape
+import csv
+with open('employee_reviews.csv', 'r') as f:
+    reader = csv.reader(f)
+    customer_data = list(reader)
+
+#customer_data = pd.read_csv("/home/apurva/Desktop/Exam/train.csv")
+#customer_data.shape
 
 data = customer_data.iloc[:-15].values  
 import scipy.cluster.hierarchy as shc

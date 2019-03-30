@@ -37,5 +37,3 @@ X_test.to_csv("test.csv",index_label=False,index=False)
 
 
 print(X_train.shape[0] + X_val.shape[0]+ X_test.shape[0])
-
-

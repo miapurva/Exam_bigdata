@@ -1,0 +1,24 @@
+Filling missing values with mean for columns - Unnamed: 0
+Filling missing values with mean for columns - overall-ratings
+Filling missing values with mean for columns - helpful-count
+Filling missing values with mode for columns - company
+Filling missing values with mode for columns - location
+Filling missing values with mode for columns - dates
+Filling missing values with mode for columns - job-title
+Filling missing values with mode for columns - summary
+Filling missing values with mode for columns - pros
+Filling missing values with mode for columns - cons
+Filling missing values with mode for columns - advice-to-mgmt
+Filling missing values with mode for columns - work-balance-stars
+Filling missing values with mode for columns - culture-values-stars
+Filling missing values with mode for columns - carrer-opportunities-stars
+Filling missing values with mode for columns - comp-benefit-stars
+Filling missing values with mode for columns - senior-mangemnet-stars
+[0.23576375 0.74788472 0.01553876 0.00081278]
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=2, max_features='auto', max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=100, n_jobs=None,
+            oob_score=False, random_state=0, verbose=0, warm_start=False)
+[0 0 0 ... 1 1 1]
