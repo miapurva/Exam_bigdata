@@ -7,25 +7,23 @@ from scipy.spatial.distance import pdist,squareform
 import numpy as np  
 import matplotlib.pyplot as plt  
 import pandas as pd  
-import apriori   
+from apyori import apriori
 from tqdm import tqdm
 
 store_data = pd.read_csv('yutika.csv')  
 
 records = []  
-for i in tqdm(range(100)):  
-    records.append([str(store_data.values[i,j]) for j in range(0, 100)])
+for i in range(98):  
+    records.append([str(store_data.values[i,j]) for j in range(9)])
 
 
-association_rules = apriori(records, min_support=0.0045, min_confidence=0.2, min_lift=3, min_length=2)  
+association_rules = apriori(records, min_support=0.0002, min_lift=3, min_length=2)  
 association_results = list(association_rules) 
-print(len(association_results)) 
+#print(len(list(association_rules))) 
 
-print(association_results[0])  
-print("Yutika")
+#print(association_results[0])  
 
 for item in association_results:
-
     # first index of the inner list
     # Contains base item and add item
     pair = item[0] 
@@ -40,11 +38,11 @@ for item in association_results:
     support_C = confidence / lift
     
     leverage = support_AC - support_A*support_C
-    conviction = (1 - support_C) / (1 - confidence)
-    
-    print("Support: YUTIKA KULWE " , support_AC)
-    print("Confidence: " , confidence)
-    print("Lift: " ,lift)
-    print("Leverage: " , leverage)
-    print("Conviction : " , conviction)
+    #conviction = (1 - support_C) / (1 - confidence)
+    #
+    #print("Support: " , support_AC)
+    #print("Confidence: " , confidence)
+    #print("Lift: " ,lift)
+    #print("Leverage: " , leverage)
+    #print("Conviction : " , conviction)
     print("=====================================")
