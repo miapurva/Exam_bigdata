@@ -48,4 +48,4 @@ def purity_score(y_true, y_pred):
     return np.sum(np.amax(contingency_matrix, axis=0)) / np.sum(contingency_matrix) 
 
 
-purity_score(true_clusters_labels,predicted_labels)
+purity_score(true_clusters_labels,predicted_labels)	

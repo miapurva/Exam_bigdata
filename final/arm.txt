@@ -1,0 +1,1392 @@
+Rule: 1 -> 2
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> Current Employee - Recruiter
+=====================================
+Rule: 2 -> Ann Arbor, MI
+=====================================
+Rule: 2 -> Current Employee - Administrative Business Partner
+=====================================
+Rule: 2 -> Current Employee - Data Scientist
+=====================================
+Rule: 2 -> Current Employee - Recruiter
+=====================================
+Rule: Former Employee - Associate Account Strategist -> 2
+=====================================
+Rule: 2 -> Former Employee - Program Manager
+=====================================
+Rule: 3 -> Boulder, CO
+=====================================
+Rule: 3 -> Current Employee - Administrative Business Partner
+=====================================
+Rule: 3 -> Current Employee - Data Scientist
+=====================================
+Rule: Current Employee - Designer -> 3
+=====================================
+Rule: Current Employee - Google Specialist -> 3
+=====================================
+Rule: Current Employee - Product Marketing -> 3
+=====================================
+Rule: 3 -> Current Employee - Program Manager
+=====================================
+Rule: 3 -> Current Employee - Recruiter
+=====================================
+Rule: 3 -> Current Employee - Staff Software Engineer
+=====================================
+Rule: 3 -> Dearborn, MI
+=====================================
+Rule: 3 -> Former Employee - Legal Specialist
+=====================================
+Rule: 3 -> Former Employee - Program Manager
+=====================================
+Rule: Former Employee - Senior Director -> 3
+=====================================
+Rule: 3 -> Seattle, WA
+=====================================
+Rule: Former Employee - Associate Account Strategist -> Ann Arbor, MI
+=====================================
+Rule: Current Employee - Product Marketing -> Boulder, CO
+=====================================
+Rule: Mountain View, CA -> Current Employee - Administrative Business Partner
+=====================================
+Rule: Current Employee - Designer -> New York, NY
+=====================================
+Rule: Pittsburgh, PA -> Current Employee - Front End Engineer
+=====================================
+Rule: Current Employee - Google Specialist -> Dearborn, MI
+=====================================
+Rule: Current Employee - Product Marketing Manager -> San Francisco, CA
+=====================================
+Rule: Current Employee - Program Manager -> New York, NY
+=====================================
+Rule: San Francisco, CA -> Current Employee - Program Manager I
+=====================================
+Rule: San Francisco, CA -> Current Employee - Sales Operations Analyst
+=====================================
+Rule: Current Employee - Senior Software Engineer -> Mountain View, CA
+=====================================
+Rule: Current Employee - Senior Software Engineer -> New York, NY
+=====================================
+Rule: Current Employee - Software Engineer -> New York, NY
+=====================================
+Rule: Current Employee - Software Engineer -> Sunnyvale, CA
+=====================================
+Rule: New York, NY -> Current Employee - Software Engineer III
+=====================================
+Rule: Mountain View, CA -> Current Employee - Software Engineering Manager
+=====================================
+Rule: Current Employee - Staff Accountant -> Los Angeles, CA
+=====================================
+Rule: Current Employee - Staff Software Engineer -> Seattle, WA
+=====================================
+Rule: San Francisco, CA -> Current Employee - User Experience Engineer
+=====================================
+Rule: Current Employee - Video -> Mountain View, CA
+=====================================
+Rule: Mountain View, CA -> Former Employee - Legal Specialist
+=====================================
+Rule: Mountain View, CA -> Former Employee - Program Manager
+=====================================
+Rule: Mountain View, CA -> Former Employee - SDE2
+=====================================
+Rule: Former Employee - Senior Director -> Mountain View, CA
+=====================================
+Rule: Former Employee - Software Engineer -> Los Angeles, CA
+=====================================
+Rule: Former Employee - Software Engineer -> New York, NY
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> 2
+=====================================
+Rule: 1 -> 2
+=====================================
+Rule: 1 -> Current Employee - Anonymous Employee
+=====================================
+Rule: 1 -> 2
+=====================================
+Rule: 1 -> 2
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 1 -> Mountain View, CA
+=====================================
+Rule: 1 -> 2
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> Current Employee - Anonymous Employee
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> Mountain View, CA
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> 4
+=====================================
+Rule: 1 -> 5
+=====================================
+Rule: 1 -> Mountain View, CA
+=====================================
+Rule: 1 -> Current Employee - Anonymous Employee
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 1 -> google
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: 2 -> Ann Arbor, MI
+=====================================
+Rule: 2 -> 4
+=====================================
+Rule: Former Employee - Associate Account Strategist -> 2
+=====================================
+Rule: 2 -> Former Employee - Program Manager
+=====================================
+Rule: Ann Arbor, MI -> 2
+=====================================
+Rule: Current Employee - Administrative Business Partner -> 2
+=====================================
+Rule: 2 -> 5
+=====================================
+Rule: 2 -> 5
+=====================================
+Rule: Former Employee - Associate Account Strategist -> 2
+=====================================
+Rule: Former Employee - Program Manager -> 2
+=====================================
+Rule: Former Employee - Associate Account Strategist -> 2
+=====================================
+Rule: google -> 2
+=====================================
+Rule: Mountain View, CA -> 2
+=====================================
+Rule: google -> 2
+=====================================
+Rule: India, IND -> 2
+=====================================
+Rule: 2 -> google
+=====================================
+Rule: India, IND -> 2
+=====================================
+Rule: 2 -> google
+=====================================
+Rule: 2 -> New York, NY
+=====================================
+Rule: Former Employee - Associate Account Strategist -> 2
+=====================================
+Rule: Mountain View, CA -> 2
+=====================================
+Rule: google -> 2
+=====================================
+Rule: 3 -> Boulder, CO
+=====================================
+Rule: 3 -> Current Employee - Data Scientist
+=====================================
+Rule: Current Employee - Designer -> 3
+=====================================
+Rule: Current Employee - Google Specialist -> 3
+=====================================
+Rule: Current Employee - Product Marketing -> 3
+=====================================
+Rule: 3 -> Current Employee - Program Manager
+=====================================
+Rule: 3 -> 4
+=====================================
+Rule: 3 -> Dearborn, MI
+=====================================
+Rule: 3 -> Former Employee - Legal Specialist
+=====================================
+Rule: 3 -> Former Employee - Program Manager
+=====================================
+Rule: Former Employee - Senior Director -> 3
+=====================================
+Rule: 3 -> 4
+=====================================
+Rule: 3 -> 5
+=====================================
+Rule: Current Employee - Administrative Business Partner -> 3
+=====================================
+Rule: 3 -> Current Employee - Data Scientist
+=====================================
+Rule: Current Employee - Designer -> 3
+=====================================
+Rule: Current Employee - Google Specialist -> 3
+=====================================
+Rule: Current Employee - Product Marketing -> 3
+=====================================
+Rule: 3 -> Current Employee - Program Manager
+=====================================
+Rule: 3 -> 5
+=====================================
+Rule: 3 -> 5
+=====================================
+Rule: 3 -> Dearborn, MI
+=====================================
+Rule: Former Employee - Legal Specialist -> 3
+=====================================
+Rule: Former Employee - Program Manager -> 3
+=====================================
+Rule: Former Employee - Senior Director -> 3
+=====================================
+Rule: 3 -> 5
+=====================================
+Rule: Current Employee - Product Marketing -> 3
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: Mountain View, CA -> 3
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: Current Employee - Anonymous Employee -> 3
+=====================================
+Rule: 3 -> Current Employee - Data Scientist
+=====================================
+Rule: 3 -> Current Employee - Data Scientist
+=====================================
+Rule: Current Employee - Designer -> 3
+=====================================
+Rule: Current Employee - Designer -> 3
+=====================================
+Rule: Current Employee - Google Specialist -> 3
+=====================================
+Rule: Current Employee - Google Specialist -> 3
+=====================================
+Rule: Current Employee - Product Marketing -> 3
+=====================================
+Rule: 3 -> Current Employee - Program Manager
+=====================================
+Rule: 3 -> Current Employee - Program Manager
+=====================================
+Rule: 3 -> India, IND
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: 3 -> Current Employee - Staff Software Engineer
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: 3 -> Dearborn, MI
+=====================================
+Rule: 3 -> New York, NY
+=====================================
+Rule: Mountain View, CA -> 3
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: Mountain View, CA -> 3
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: Former Employee - Senior Director -> 3
+=====================================
+Rule: Former Employee - Senior Director -> 3
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: Former Employee - Associate Account Strategist -> Ann Arbor, MI
+=====================================
+Rule: Current Employee - Product Marketing -> Boulder, CO
+=====================================
+Rule: India, IND -> Current Employee - Data Scientist
+=====================================
+Rule: Current Employee - Designer -> New York, NY
+=====================================
+Rule: Pittsburgh, PA -> Current Employee - Front End Engineer
+=====================================
+Rule: Current Employee - Google Specialist -> Dearborn, MI
+=====================================
+Rule: Current Employee - Product Marketing Manager -> San Francisco, CA
+=====================================
+Rule: Current Employee - Program Manager -> New York, NY
+=====================================
+Rule: San Francisco, CA -> 4
+=====================================
+Rule: Current Employee - Senior Software Engineer -> 4
+=====================================
+Rule: Current Employee - Software Engineer -> New York, NY
+=====================================
+Rule: Current Employee - Software Engineer -> Sunnyvale, CA
+=====================================
+Rule: New York, NY -> 4
+=====================================
+Rule: Mountain View, CA -> Current Employee - Software Engineering Manager
+=====================================
+Rule: 4 -> Current Employee - Staff Software Engineer
+=====================================
+Rule: San Francisco, CA -> 4
+=====================================
+Rule: Current Employee - Video -> 4
+=====================================
+Rule: Mountain View, CA -> Former Employee - Legal Specialist
+=====================================
+Rule: Mountain View, CA -> Former Employee - Program Manager
+=====================================
+Rule: Mountain View, CA -> 4
+=====================================
+Rule: Former Employee - Senior Director -> 4
+=====================================
+Rule: Former Employee - Software Engineer -> New York, NY
+=====================================
+Rule: Ann Arbor, MI -> 5
+=====================================
+Rule: Current Employee - Product Marketing -> Boulder, CO
+=====================================
+Rule: Current Employee - Administrative Business Partner -> 5
+=====================================
+Rule: Current Employee - Designer -> New York, NY
+=====================================
+Rule: Current Employee - Front End Engineer -> 5
+=====================================
+Rule: Current Employee - Google Specialist -> Dearborn, MI
+=====================================
+Rule: Current Employee - Product Marketing Manager -> San Francisco, CA
+=====================================
+Rule: New York, NY -> Current Employee - Program Manager
+=====================================
+Rule: Current Employee - Program Manager I -> 5
+=====================================
+Rule: San Francisco, CA -> 5
+=====================================
+Rule: Current Employee - Senior Software Engineer -> 5
+=====================================
+Rule: Current Employee - Senior Software Engineer -> New York, NY
+=====================================
+Rule: New York, NY -> Current Employee - Software Engineer
+=====================================
+Rule: Current Employee - Software Engineer -> 5
+=====================================
+Rule: New York, NY -> 5
+=====================================
+Rule: Current Employee - Software Engineering Manager -> 5
+=====================================
+Rule: Current Employee - Staff Accountant -> 5
+=====================================
+Rule: 5 -> Current Employee - Staff Software Engineer
+=====================================
+Rule: San Francisco, CA -> 5
+=====================================
+Rule: Current Employee - Video -> 5
+=====================================
+Rule: Former Employee - Legal Specialist -> 5
+=====================================
+Rule: Former Employee - Program Manager -> 5
+=====================================
+Rule: Mountain View, CA -> 5
+=====================================
+Rule: Former Employee - Senior Director -> 5
+=====================================
+Rule: Former Employee - Software Engineer -> 5
+=====================================
+Rule: Former Employee - Software Engineer -> New York, NY
+=====================================
+Rule: Former Employee - Associate Account Strategist -> google
+=====================================
+Rule: Current Employee - Product Marketing -> Boulder, CO
+=====================================
+Rule: Mountain View, CA -> google
+=====================================
+Rule: Current Employee - Designer -> google
+=====================================
+Rule: Pittsburgh, PA -> google
+=====================================
+Rule: Current Employee - Google Specialist -> Dearborn, MI
+=====================================
+Rule: Current Employee - Product Marketing Manager -> San Francisco, CA
+=====================================
+Rule: google -> Current Employee - Program Manager
+=====================================
+Rule: San Francisco, CA -> google
+=====================================
+Rule: San Francisco, CA -> google
+=====================================
+Rule: Current Employee - Senior Software Engineer -> google
+=====================================
+Rule: Current Employee - Senior Software Engineer -> google
+=====================================
+Rule: Current Employee - Software Engineer -> google
+=====================================
+Rule: Current Employee - Software Engineer -> google
+=====================================
+Rule: google -> New York, NY
+=====================================
+Rule: Mountain View, CA -> google
+=====================================
+Rule: Current Employee - Staff Accountant -> google
+=====================================
+Rule: google -> Current Employee - Staff Software Engineer
+=====================================
+Rule: San Francisco, CA -> google
+=====================================
+Rule: Current Employee - Video -> google
+=====================================
+Rule: Mountain View, CA -> google
+=====================================
+Rule: Mountain View, CA -> google
+=====================================
+Rule: Mountain View, CA -> google
+=====================================
+Rule: Former Employee - Senior Director -> google
+=====================================
+Rule: Former Employee - Software Engineer -> google
+=====================================
+Rule: Former Employee - Software Engineer -> google
+=====================================
+Rule: 0 -> 2
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> Current Employee - Anonymous Employee
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> Mountain View, CA
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> 2
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 1 -> 2
+=====================================
+Rule: 1 -> Current Employee - Anonymous Employee
+=====================================
+Rule: 1 -> 2
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 1 -> Mountain View, CA
+=====================================
+Rule: 1 -> google
+=====================================
+Rule: 1 -> Current Employee - Anonymous Employee
+=====================================
+Rule: 1 -> Current Employee - Anonymous Employee
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 1 -> 2
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 1 -> 2
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 1 -> Mountain View, CA
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> Current Employee - Anonymous Employee
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> Mountain View, CA
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> Current Employee - Anonymous Employee
+=====================================
+Rule: 1 -> Current Employee - Anonymous Employee
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> Mountain View, CA
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 1 -> google
+=====================================
+Rule: 1 -> Current Employee - Anonymous Employee
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 1 -> google
+=====================================
+Rule: 1 -> Mountain View, CA
+=====================================
+Rule: 1 -> Current Employee - Anonymous Employee
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: Current Employee - Administrative Business Partner -> 3
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: Former Employee - Program Manager -> 3
+=====================================
+Rule: New York, NY -> 3
+=====================================
+Rule: Mountain View, CA -> 3
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: India, IND -> 3
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: Mountain View, CA -> 3
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: Ann Arbor, MI -> 2
+=====================================
+Rule: 2 -> 5
+=====================================
+Rule: Former Employee - Associate Account Strategist -> 2
+=====================================
+Rule: Former Employee - Program Manager -> 2
+=====================================
+Rule: Former Employee - Associate Account Strategist -> 2
+=====================================
+Rule: google -> 2
+=====================================
+Rule: India, IND -> 2
+=====================================
+Rule: 2 -> google
+=====================================
+Rule: 2 -> New York, NY
+=====================================
+Rule: Former Employee - Associate Account Strategist -> 2
+=====================================
+Rule: Mountain View, CA -> 2
+=====================================
+Rule: google -> 2
+=====================================
+Rule: Ann Arbor, MI -> 2
+=====================================
+Rule: Ann Arbor, MI -> google
+=====================================
+Rule: Current Employee - Administrative Business Partner -> 2
+=====================================
+Rule: Current Employee - Administrative Business Partner -> google
+=====================================
+Rule: India, IND -> 2
+=====================================
+Rule: google -> 2
+=====================================
+Rule: India, IND -> 2
+=====================================
+Rule: google -> 2
+=====================================
+Rule: New York, NY -> 2
+=====================================
+Rule: Former Employee - Associate Account Strategist -> google
+=====================================
+Rule: Former Employee - Program Manager -> 2
+=====================================
+Rule: Former Employee - Program Manager -> google
+=====================================
+Rule: Former Employee - Associate Account Strategist -> google
+=====================================
+Rule: Mountain View, CA -> google
+=====================================
+Rule: India, IND -> 2
+=====================================
+Rule: India, IND -> 2
+=====================================
+Rule: google -> 2
+=====================================
+Rule: Mountain View, CA -> google
+=====================================
+Rule: Boulder, CO -> 3
+=====================================
+Rule: 3 -> Current Employee - Data Scientist
+=====================================
+Rule: Current Employee - Designer -> 3
+=====================================
+Rule: Current Employee - Google Specialist -> 3
+=====================================
+Rule: Current Employee - Product Marketing -> 3
+=====================================
+Rule: 3 -> Current Employee - Program Manager
+=====================================
+Rule: 3 -> 5
+=====================================
+Rule: 3 -> Dearborn, MI
+=====================================
+Rule: Former Employee - Legal Specialist -> 3
+=====================================
+Rule: Former Employee - Program Manager -> 3
+=====================================
+Rule: Former Employee - Senior Director -> 3
+=====================================
+Rule: 3 -> 5
+=====================================
+Rule: Current Employee - Product Marketing -> 3
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: Current Employee - Anonymous Employee -> 3
+=====================================
+Rule: Current Employee - Anonymous Employee -> 3
+=====================================
+Rule: India, IND -> 3
+=====================================
+Rule: 3 -> Current Employee - Data Scientist
+=====================================
+Rule: Current Employee - Designer -> 3
+=====================================
+Rule: Current Employee - Designer -> 3
+=====================================
+Rule: Current Employee - Google Specialist -> 3
+=====================================
+Rule: Current Employee - Google Specialist -> 3
+=====================================
+Rule: Current Employee - Product Marketing -> 3
+=====================================
+Rule: 3 -> Current Employee - Program Manager
+=====================================
+Rule: 3 -> Current Employee - Program Manager
+=====================================
+Rule: 3 -> 4
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: 3 -> Dearborn, MI
+=====================================
+Rule: 3 -> New York, NY
+=====================================
+Rule: Mountain View, CA -> 3
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: Mountain View, CA -> 3
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: Former Employee - Senior Director -> 3
+=====================================
+Rule: Former Employee - Senior Director -> 3
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: Current Employee - Product Marketing -> 3
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: Current Employee - Administrative Business Partner -> 3
+=====================================
+Rule: Current Employee - Administrative Business Partner -> 3
+=====================================
+Rule: Current Employee - Anonymous Employee -> 3
+=====================================
+Rule: 3 -> Current Employee - Data Scientist
+=====================================
+Rule: 3 -> Current Employee - Data Scientist
+=====================================
+Rule: Current Employee - Designer -> New York, NY
+=====================================
+Rule: Current Employee - Designer -> 3
+=====================================
+Rule: Current Employee - Google Specialist -> 3
+=====================================
+Rule: Current Employee - Google Specialist -> 3
+=====================================
+Rule: Current Employee - Product Marketing -> 3
+=====================================
+Rule: New York, NY -> 3
+=====================================
+Rule: 3 -> Current Employee - Program Manager
+=====================================
+Rule: 3 -> 5
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: 3 -> 5
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: 3 -> Dearborn, MI
+=====================================
+Rule: New York, NY -> 3
+=====================================
+Rule: Former Employee - Legal Specialist -> 3
+=====================================
+Rule: Former Employee - Legal Specialist -> 3
+=====================================
+Rule: Former Employee - Program Manager -> 3
+=====================================
+Rule: Former Employee - Program Manager -> 3
+=====================================
+Rule: Former Employee - Senior Director -> 3
+=====================================
+Rule: Former Employee - Senior Director -> 3
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: Current Employee - Product Marketing -> 3
+=====================================
+Rule: Mountain View, CA -> 3
+=====================================
+Rule: Current Employee - Anonymous Employee -> 3
+=====================================
+Rule: 3 -> Current Employee - Data Scientist
+=====================================
+Rule: Current Employee - Designer -> 3
+=====================================
+Rule: Current Employee - Google Specialist -> 3
+=====================================
+Rule: 3 -> Current Employee - Program Manager
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: Mountain View, CA -> 3
+=====================================
+Rule: Mountain View, CA -> 3
+=====================================
+Rule: Former Employee - Senior Director -> 3
+=====================================
+Rule: Ann Arbor, MI -> 5
+=====================================
+Rule: Current Employee - Product Marketing -> Boulder, CO
+=====================================
+Rule: Current Employee - Anonymous Employee -> Sunnyvale, CA
+=====================================
+Rule: India, IND -> Current Employee - Data Scientist
+=====================================
+Rule: Current Employee - Designer -> New York, NY
+=====================================
+Rule: Current Employee - Front End Engineer -> 5
+=====================================
+Rule: Current Employee - Google Specialist -> Dearborn, MI
+=====================================
+Rule: Current Employee - Product Marketing Manager -> San Francisco, CA
+=====================================
+Rule: New York, NY -> Current Employee - Program Manager
+=====================================
+Rule: San Francisco, CA -> 5
+=====================================
+Rule: Current Employee - Senior Software Engineer -> 5
+=====================================
+Rule: New York, NY -> Current Employee - Software Engineer
+=====================================
+Rule: Current Employee - Software Engineer -> Sunnyvale, CA
+=====================================
+Rule: New York, NY -> 5
+=====================================
+Rule: Current Employee - Software Engineering Manager -> 5
+=====================================
+Rule: 5 -> 4
+=====================================
+Rule: San Francisco, CA -> 5
+=====================================
+Rule: Current Employee - Video -> 5
+=====================================
+Rule: New York, NY -> 5
+=====================================
+Rule: Former Employee - Legal Specialist -> 5
+=====================================
+Rule: Former Employee - Program Manager -> 5
+=====================================
+Rule: Mountain View, CA -> 5
+=====================================
+Rule: Former Employee - Senior Director -> 5
+=====================================
+Rule: Former Employee - Software Engineer -> New York, NY
+=====================================
+Rule: Former Employee - Associate Account Strategist -> google
+=====================================
+Rule: Current Employee - Product Marketing -> Boulder, CO
+=====================================
+Rule: India, IND -> Current Employee - Data Scientist
+=====================================
+Rule: Current Employee - Designer -> google
+=====================================
+Rule: Pittsburgh, PA -> google
+=====================================
+Rule: Current Employee - Google Specialist -> Dearborn, MI
+=====================================
+Rule: Current Employee - Product Marketing Manager -> San Francisco, CA
+=====================================
+Rule: google -> Current Employee - Program Manager
+=====================================
+Rule: San Francisco, CA -> google
+=====================================
+Rule: Current Employee - Senior Software Engineer -> google
+=====================================
+Rule: Current Employee - Software Engineer -> google
+=====================================
+Rule: Current Employee - Software Engineer -> Sunnyvale, CA
+=====================================
+Rule: google -> New York, NY
+=====================================
+Rule: Mountain View, CA -> google
+=====================================
+Rule: google -> 4
+=====================================
+Rule: San Francisco, CA -> google
+=====================================
+Rule: Current Employee - Video -> google
+=====================================
+Rule: Mountain View, CA -> google
+=====================================
+Rule: Mountain View, CA -> google
+=====================================
+Rule: Mountain View, CA -> google
+=====================================
+Rule: Former Employee - Senior Director -> google
+=====================================
+Rule: Former Employee - Software Engineer -> google
+=====================================
+Rule: Ann Arbor, MI -> google
+=====================================
+Rule: Current Employee - Product Marketing -> Boulder, CO
+=====================================
+Rule: Current Employee - Administrative Business Partner -> google
+=====================================
+Rule: Current Employee - Designer -> New York, NY
+=====================================
+Rule: Current Employee - Front End Engineer -> google
+=====================================
+Rule: Current Employee - Google Specialist -> google
+=====================================
+Rule: Current Employee - Product Marketing Manager -> San Francisco, CA
+=====================================
+Rule: New York, NY -> google
+=====================================
+Rule: Current Employee - Program Manager I -> google
+=====================================
+Rule: San Francisco, CA -> google
+=====================================
+Rule: Current Employee - Senior Software Engineer -> google
+=====================================
+Rule: Current Employee - Senior Software Engineer -> New York, NY
+=====================================
+Rule: New York, NY -> Current Employee - Software Engineer
+=====================================
+Rule: Current Employee - Software Engineer -> google
+=====================================
+Rule: New York, NY -> google
+=====================================
+Rule: Current Employee - Software Engineering Manager -> google
+=====================================
+Rule: Current Employee - Staff Accountant -> google
+=====================================
+Rule: google -> 5
+=====================================
+Rule: San Francisco, CA -> google
+=====================================
+Rule: Current Employee - Video -> google
+=====================================
+Rule: Former Employee - Legal Specialist -> google
+=====================================
+Rule: Former Employee - Program Manager -> google
+=====================================
+Rule: Mountain View, CA -> google
+=====================================
+Rule: Former Employee - Senior Director -> google
+=====================================
+Rule: Former Employee - Software Engineer -> google
+=====================================
+Rule: Former Employee - Software Engineer -> New York, NY
+=====================================
+Rule: 0 -> India, IND
+=====================================
+Rule: 0 -> google
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> Current Employee - Anonymous Employee
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> Mountain View, CA
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> Current Employee - Anonymous Employee
+=====================================
+Rule: 1 -> Current Employee - Anonymous Employee
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> Mountain View, CA
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 1 -> 2
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 1 -> Current Employee - Anonymous Employee
+=====================================
+Rule: 1 -> Current Employee - Anonymous Employee
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 1 -> google
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 1 -> Mountain View, CA
+=====================================
+Rule: 1 -> Current Employee - Anonymous Employee
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 1 -> Current Employee - Anonymous Employee
+=====================================
+Rule: 1 -> Current Employee - Anonymous Employee
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> Mountain View, CA
+=====================================
+Rule: 1 -> Current Employee - Anonymous Employee
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 1 -> Current Employee - Anonymous Employee
+=====================================
+Rule: 1 -> India, IND
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: Former Employee - Program Manager -> 3
+=====================================
+Rule: New York, NY -> 3
+=====================================
+Rule: India, IND -> 3
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: India, IND -> 3
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: Mountain View, CA -> 3
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: Current Employee - Administrative Business Partner -> 3
+=====================================
+Rule: Current Employee - Administrative Business Partner -> 3
+=====================================
+Rule: Current Employee - Anonymous Employee -> Mountain View, CA
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: google -> 3
+=====================================
+Rule: New York, NY -> 3
+=====================================
+Rule: Former Employee - Program Manager -> 3
+=====================================
+Rule: Former Employee - Program Manager -> 3
+=====================================
+Rule: New York, NY -> 3
+=====================================
+Rule: Mountain View, CA -> 3
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: India, IND -> 3
+=====================================
+Rule: 3 -> 2
+=====================================
+Rule: Mountain View, CA -> 3
+=====================================
+Rule: Ann Arbor, MI -> 2
+=====================================
+Rule: Ann Arbor, MI -> google
+=====================================
+Rule: India, IND -> 2
+=====================================
+Rule: google -> 2
+=====================================
+Rule: New York, NY -> 2
+=====================================
+Rule: Former Employee - Associate Account Strategist -> google
+=====================================
+Rule: Former Employee - Program Manager -> 2
+=====================================
+Rule: Former Employee - Program Manager -> google
+=====================================
+Rule: Former Employee - Associate Account Strategist -> google
+=====================================
+Rule: India, IND -> 2
+=====================================
+Rule: google -> 2
+=====================================
+Rule: Mountain View, CA -> google
+=====================================
+Rule: Ann Arbor, MI -> google
+=====================================
+Rule: Current Employee - Administrative Business Partner -> google
+=====================================
+Rule: India, IND -> 2
+=====================================
+Rule: google -> India, IND
+=====================================
+Rule: New York, NY -> google
+=====================================
+Rule: Former Employee - Program Manager -> google
+=====================================
+Rule: Boulder, CO -> 3
+=====================================
+Rule: Boulder, CO -> 3
+=====================================
+Rule: Current Employee - Anonymous Employee -> 3
+=====================================
+Rule: India, IND -> 3
+=====================================
+Rule: 3 -> Current Employee - Data Scientist
+=====================================
+Rule: Current Employee - Designer -> New York, NY
+=====================================
+Rule: Current Employee - Designer -> 3
+=====================================
+Rule: Current Employee - Google Specialist -> 3
+=====================================
+Rule: Current Employee - Google Specialist -> 3
+=====================================
+Rule: Current Employee - Product Marketing -> 3
+=====================================
+Rule: New York, NY -> 3
+=====================================
+Rule: 3 -> Current Employee - Program Manager
+=====================================
+Rule: 3 -> 5
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: 3 -> Dearborn, MI
+=====================================
+Rule: New York, NY -> 3
+=====================================
+Rule: Former Employee - Legal Specialist -> 3
+=====================================
+Rule: Former Employee - Legal Specialist -> 3
+=====================================
+Rule: Former Employee - Program Manager -> 3
+=====================================
+Rule: Former Employee - Program Manager -> 3
+=====================================
+Rule: Former Employee - Senior Director -> 3
+=====================================
+Rule: Former Employee - Senior Director -> 3
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: Current Employee - Product Marketing -> 3
+=====================================
+Rule: Current Employee - Anonymous Employee -> 3
+=====================================
+Rule: Current Employee - Anonymous Employee -> 3
+=====================================
+Rule: India, IND -> 3
+=====================================
+Rule: Current Employee - Designer -> 3
+=====================================
+Rule: Current Employee - Google Specialist -> 3
+=====================================
+Rule: 3 -> Current Employee - Program Manager
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: Mountain View, CA -> 3
+=====================================
+Rule: Mountain View, CA -> 3
+=====================================
+Rule: Former Employee - Senior Director -> 3
+=====================================
+Rule: Current Employee - Product Marketing -> 3
+=====================================
+Rule: Current Employee - Administrative Business Partner -> 3
+=====================================
+Rule: Current Employee - Anonymous Employee -> 3
+=====================================
+Rule: 3 -> Current Employee - Data Scientist
+=====================================
+Rule: Current Employee - Designer -> New York, NY
+=====================================
+Rule: Current Employee - Google Specialist -> 3
+=====================================
+Rule: New York, NY -> 3
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: 3 -> google
+=====================================
+Rule: New York, NY -> 3
+=====================================
+Rule: Former Employee - Legal Specialist -> 3
+=====================================
+Rule: Former Employee - Program Manager -> 3
+=====================================
+Rule: Former Employee - Senior Director -> 3
+=====================================
+Rule: Ann Arbor, MI -> google
+=====================================
+Rule: Current Employee - Product Marketing -> Boulder, CO
+=====================================
+Rule: Current Employee - Anonymous Employee -> Sunnyvale, CA
+=====================================
+Rule: India, IND -> Current Employee - Data Scientist
+=====================================
+Rule: Current Employee - Designer -> New York, NY
+=====================================
+Rule: Current Employee - Front End Engineer -> google
+=====================================
+Rule: Current Employee - Google Specialist -> google
+=====================================
+Rule: Current Employee - Product Marketing Manager -> San Francisco, CA
+=====================================
+Rule: New York, NY -> google
+=====================================
+Rule: San Francisco, CA -> google
+=====================================
+Rule: Current Employee - Senior Software Engineer -> google
+=====================================
+Rule: New York, NY -> Current Employee - Software Engineer
+=====================================
+Rule: Current Employee - Software Engineer -> Sunnyvale, CA
+=====================================
+Rule: New York, NY -> google
+=====================================
+Rule: Current Employee - Software Engineering Manager -> google
+=====================================
+Rule: google -> 5
+=====================================
+Rule: San Francisco, CA -> google
+=====================================
+Rule: Current Employee - Video -> google
+=====================================
+Rule: New York, NY -> google
+=====================================
+Rule: Former Employee - Legal Specialist -> google
+=====================================
+Rule: Former Employee - Program Manager -> google
+=====================================
+Rule: Mountain View, CA -> google
+=====================================
+Rule: Former Employee - Senior Director -> google
+=====================================
+Rule: Former Employee - Software Engineer -> New York, NY
+=====================================
+Rule: google -> Former Employee - Anonymous Employee
+=====================================
+Rule: Former Employee - Anonymous Employee -> 1
+=====================================
+Rule: google -> Former Employee - Anonymous Employee
+=====================================
+Rule: google -> 1
+=====================================
+Rule: 1 -> 3
+=====================================
+Rule: google -> 1
+=====================================
+Rule: Current Employee - Recruiter -> 1
+=====================================
+Rule: google -> Current Employee - Recruiter
+=====================================
+Rule: google -> 1
+=====================================
+Rule: google -> 1
+=====================================
+Rule: google -> 1
+=====================================
+Rule: google -> Current Employee - Recruiter
+=====================================
+Rule: google -> Former Employee - Anonymous Employee
+=====================================
+Rule: google -> Former Employee - Anonymous Employee
+=====================================
+Rule: google -> 1
+=====================================
+Rule: google -> Current Employee - Recruiter
+=====================================
+Rule: google -> Former Employee - Anonymous Employee
+=====================================
+Rule: google -> 1
+=====================================
+Rule: google -> Current Employee - Recruiter
+=====================================
+Rule: Current Employee - Data Scientist -> 3
+=====================================
+Rule: Current Employee - Data Scientist -> 3
+=====================================
+Rule: Former Employee - Anonymous Employee -> 3
+=====================================
+Rule: google -> Former Employee - Anonymous Employee
+=====================================
+Rule: Former Employee - Program Manager -> 3
+=====================================
+Rule: google -> Former Employee - Program Manager
+=====================================
+Rule: google -> 3
+=====================================
+Rule: google -> Current Employee - Data Scientist
+=====================================
+Rule: google -> Former Employee - Anonymous Employee
+=====================================
+Rule: google -> Former Employee - Anonymous Employee
+=====================================
+Rule: google -> Former Employee - Program Manager
+=====================================
+Rule: google -> 3
+=====================================
+Rule: google -> 3
+=====================================
+Rule: Current Employee - Data Scientist -> google
+=====================================
+Rule: google -> Current Employee - Recruiter
+=====================================
+Rule: google -> Former Employee - Anonymous Employee
+=====================================
+Rule: google -> Former Employee - Program Manager
+=====================================
+Rule: google -> Former Employee - Associate Account Strategist
+=====================================
+Rule: Current Employee - Data Scientist -> google
+=====================================
+Rule: google -> Former Employee - Anonymous Employee
+=====================================
+Rule: google -> Former Employee - Program Manager
+=====================================
+Rule: Boulder, CO -> google
+=====================================
+Rule: Sunnyvale, CA -> google
+=====================================
+Rule: google -> 3
+=====================================
+Rule: Current Employee - Designer -> google
+=====================================
+Rule: google -> Dearborn, MI
+=====================================
+Rule: google -> Current Employee - Program Manager
+=====================================
+Rule: google -> Seattle, WA
+=====================================
+Rule: google -> Former Employee - Anonymous Employee
+=====================================
+Rule: google -> 3
+=====================================
+Rule: google -> Former Employee - Program Manager
+=====================================
+Rule: google -> 3
+=====================================
+Rule: google -> Former Employee - Anonymous Employee
+=====================================
+Rule: google -> 1
+=====================================
+Rule: google -> Current Employee - Recruiter
+=====================================
+Rule: Current Employee - Data Scientist -> google
+=====================================
+Rule: google -> Former Employee - Anonymous Employee
+=====================================
+Rule: google -> Former Employee - Program Manager
+=====================================
